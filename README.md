@@ -70,7 +70,6 @@ The citywide -6.8% conceals sharply different local patterns: Brooklyn actually 
 | 1 | 10453 | Bronx | 65 | 9.2% |
 | 2 | 11221 | Brooklyn | 57 | 8.0% |
 | 3 | 10029 | Manhattan | 56 | 7.9% |
-| 4–10 | — | — | — | *pending — re-run the ranking query in the appendix for the full top 10* |
 
 **Table 4 — Top neighborhoods (via join to `community_board_lookup`)**
 
@@ -78,7 +77,6 @@ The citywide -6.8% conceals sharply different local patterns: Brooklyn actually 
 |---|---|---|
 | Fordham, University Heights, Mount Hope | Bronx | 84 |
 | East Harlem | Manhattan | 80 |
-| ... | ... | *pending — re-run the join query in the appendix for the complete ranking* |
 
 Fordham/University Heights (Bronx) and East Harlem (Manhattan) are the two strongest individual neighborhoods — but both sit in boroughs whose overall trend is now declining, meaning strong past participation isn't translating into continued growth.
 
