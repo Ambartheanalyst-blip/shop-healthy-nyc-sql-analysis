@@ -156,5 +156,5 @@ JOIN community_board_lookup l ON s.community_board = l.community_board
 GROUP BY l.neighborhood_name, l.borough
 ORDER BY total_recognitions DESC;
 
--- Ambar Pierret
+
 
