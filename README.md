@@ -63,7 +63,7 @@ Recognitions arrive in distinct waves (2017, 2020, 2023) rather than a smooth tr
 
 The citywide -6.8% conceals sharply different local patterns: Brooklyn actually grew between its earliest and most recent five-year windows, while the Bronx and especially Manhattan declined.
 
-**Table 3 — Top 10 zip codes by recognitions**
+**Table 3 — Top 3 zip codes by recognitions**
 
 | Rank | Zip Code | Borough | Recognitions | % of Citywide |
 |---|---|---|---|---|
