@@ -143,7 +143,7 @@ SELECT
 FROM shop_healthy_stores
 GROUP BY zip_code
 ORDER BY total_recognitions DESC
-LIMIT 10;
+LIMIT 2;
 
 -- Query 7 -- Used JOIN to the lookup table to re-run the ranking with real neighborhood names instead of codes.
 -- -> REPORT TABLE 4
@@ -154,7 +154,8 @@ SELECT
 FROM shop_healthy_stores s
 JOIN community_board_lookup l ON s.community_board = l.community_board
 GROUP BY l.neighborhood_name, l.borough
-ORDER BY total_recognitions DESC;
+ORDER BY total_recognitions DESC
+LIMIT 2;
 
 
 
